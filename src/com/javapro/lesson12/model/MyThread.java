@@ -1,4 +1,4 @@
-package com.javapro.lesson12;
+package com.javapro.lesson12.model;
 
 public class MyThread extends Thread {
 

@@ -1,6 +1,5 @@
 package com.javapro.lesson12.model;
 
-import com.javapro.lesson12.MyThread;
 import java.util.Arrays;
 
 public class ValueCalculator {
