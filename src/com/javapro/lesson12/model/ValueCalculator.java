@@ -8,7 +8,7 @@ public class ValueCalculator {
   int size = 500000;
   int halfSize = size / 2;
 
-  public void doCalc2() {
+  public void doCalc() {
     long start = System.currentTimeMillis();
     System.out.println(Thread.currentThread().getName() + " start");
     array = new float[size];
